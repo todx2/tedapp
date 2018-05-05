@@ -1,0 +1,5 @@
+production:
+  adapter: postresql
+  database: tedapp
+  username: deploy
+  password: ted5

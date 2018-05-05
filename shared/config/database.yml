@@ -1,5 +1,5 @@
 production:
-  adapter: postresql
+  adapter: postgresql
   database: tedapp
   username: deploy
   password: ted5
